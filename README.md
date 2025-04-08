@@ -21,4 +21,4 @@ If you are interested in contributing an article, please contact me directly
 at *x.yang@mdx.ac.uk* to express interest to contribute and provide a tentative title of your article 
 by 30 April 2025. 
 
-Dr Xin-She Yang, Section Editor of the AI Encyclopedia
+Dr [Xin-She Yang](https://xin-she.github.io/web/), Section Editor of the AI Encyclopedia
