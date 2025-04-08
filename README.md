@@ -1,6 +1,6 @@
 ## Call for Articles for the AI Encyclopedia
 
-Re: Article invitation for the "Elsevier AI Encyclopedia" (to be published by Elsevier in 2026)
+Re: Article invitation for the "Elsevier AI Encyclopedia" (to be published by Elsevier in 2026) (please email: x.yang@mdx.ac.uk)
 
 Elsevier has agreed to publish a multi-volume "Encyclopedia of Artificial Intelligence: Foundations, Innovations and Future
 Directions" in 2026. I have been appointed as a Section/Volume Editor for Elsevier's new "Encyclopedia of Artificial Intelligence: Foundations, Innovations
@@ -12,6 +12,7 @@ I am looking after articles in the following four main topic areas (see below). 
 2. AI Foundations and Core Technologies
 3. AI-Driven Innovations & Future Technology Pathways
 4. Advanced Theoretical Concepts (related to AI)
+Full details can be found here <a href="file.pdf">Call for Articles (PDF)</a>
 
 ##### Key dates
 
